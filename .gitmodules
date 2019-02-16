@@ -1,0 +1,9 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/knowhere1998/lend_it_up_server
+[submodule "web_angular"]
+	path = web_angular
+	url = https://github.com/knowhere1998/lend_it_up_angular
+[submodule "android"]
+	path = android
+	url = https://github.com/knowhere1998/lend_it_up_android
